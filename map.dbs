@@ -17,52 +17,8 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 1540.167f;
+		viewpositionx = 4.616342f;
 		defaulttoptexture = "DOORTRAK";
-		
-		fieldtypes
-		{
-			
-			sector
-			{
-				lightceilingabsolute = 3;
-				xscaleceiling = 1;
-				lightfloor = 0;
-				xscalefloor = 1;
-				floorglowcolor = 0;
-				xpanningfloor = 1;
-				lightfloorabsolute = 3;
-				yscaleceiling = 1;
-				lightcolor = 0;
-				xpanningceiling = 1;
-				yscalefloor = 1;
-				rotationfloor = 1;
-				fadecolor = 0;
-				rotationceiling = 1;
-				lightceiling = 0;
-				ypanningfloor = 1;
-				ypanningceiling = 1;
-				ceilingglowcolor = 0;
-			}
-			
-			sidedef
-			{
-				offsety_bottom = 1;
-				offsetx_top = 1;
-				lightabsolute = 3;
-				offsety_mid = 1;
-				light = 0;
-				offsetx_bottom = 1;
-				offsetx_mid = 1;
-				offsety_top = 1;
-			}
-			
-			linedef
-			{
-				alpha = 1;
-				renderstyle = 2;
-			}
-		}
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
 		overridebrightness = false;
@@ -77,7 +33,7 @@ maps
 			gridrotate = 0f;
 			backscalex = 100;
 			gridoriginx = 0f;
-			gridsize = 8f;
+			gridsize = 2f;
 			background = "";
 			backoffsety = 0;
 		}
@@ -85,11 +41,55 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORTRAK";
 		defaultfloortexture = "FLOOR8_4";
-		viewpositiony = -250.2795f;
+		viewpositiony = 2801.594f;
 		defaultwalltexture = "DOORTRAK";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 5.613477f;
+		viewscale = 4.318027f;
+		
+		fieldtypes
+		{
+			
+			linedef
+			{
+				alpha = 1;
+				renderstyle = 2;
+			}
+			
+			sidedef
+			{
+				offsetx_mid = 1;
+				offsety_mid = 1;
+				offsetx_top = 1;
+				offsetx_bottom = 1;
+				offsety_top = 1;
+				offsety_bottom = 1;
+				light = 0;
+				lightabsolute = 3;
+			}
+			
+			sector
+			{
+				xpanningceiling = 1;
+				ypanningceiling = 1;
+				rotationceiling = 17;
+				xscaleceiling = 1;
+				yscaleceiling = 1;
+				xpanningfloor = 1;
+				ypanningfloor = 1;
+				rotationfloor = 17;
+				xscalefloor = 1;
+				yscalefloor = 1;
+				lightfloor = 0;
+				lightcolor = 0;
+				fadecolor = 0;
+				lightceiling = 0;
+				lightceilingabsolute = 3;
+				ceilingglowcolor = 0;
+				floorglowcolor = 0;
+				lightfloorabsolute = 3;
+			}
+		}
 	}
 }
