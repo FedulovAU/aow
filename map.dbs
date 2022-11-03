@@ -17,7 +17,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 335.9276f;
+		viewpositionx = -1125.844f;
 		defaulttoptexture = "DOORTRAK";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -41,12 +41,12 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "DOORTRAK";
 		defaultfloortexture = "FLOOR8_4";
-		viewpositiony = 1074.306f;
+		viewpositiony = 1768.753f;
 		defaultwalltexture = "DOORTRAK";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 1.352528f;
+		viewscale = 1.758284f;
 		
 		fieldtypes
 		{
