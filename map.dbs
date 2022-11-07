@@ -17,8 +17,8 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 6163.164f;
-		defaulttoptexture = "DOORTRAK";
+		viewpositionx = 100.8372f;
+		defaulttoptexture = "ROCK23";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
 		overridebrightness = false;
@@ -33,20 +33,20 @@ maps
 			gridrotate = 0f;
 			backscalex = 100;
 			gridoriginx = 0f;
-			gridsize = 8f;
+			gridsize = 4f;
 			background = "";
 			backoffsety = 0;
 		}
 		overridetoptexture = false;
 		overridebottomtexture = false;
-		defaultbottomtexture = "DOORTRAK";
+		defaultbottomtexture = "ROCK23";
 		defaultfloortexture = "FLOOR8_4";
-		viewpositiony = 4864.186f;
-		defaultwalltexture = "DOORTRAK";
+		viewpositiony = 4790.919f;
+		defaultwalltexture = "ROCK23";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.09810856f;
+		viewscale = 0.1658028f;
 		
 		fieldtypes
 		{
@@ -59,12 +59,12 @@ maps
 			
 			sidedef
 			{
-				offsetx_mid = 1;
-				offsety_mid = 1;
-				offsetx_top = 1;
 				offsetx_bottom = 1;
-				offsety_top = 1;
 				offsety_bottom = 1;
+				offsetx_mid = 1;
+				offsetx_top = 1;
+				offsety_top = 1;
+				offsety_mid = 1;
 				light = 0;
 				lightabsolute = 3;
 			}
@@ -83,7 +83,6 @@ maps
 				yscalefloor = 1;
 				lightfloor = 0;
 				lightcolor = 0;
-				fadecolor = 0;
 				lightceiling = 0;
 				lightceilingabsolute = 3;
 				ceilingglowcolor = 0;
