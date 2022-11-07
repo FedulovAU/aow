@@ -17,7 +17,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 9159.237f;
+		viewpositionx = 391.8768f;
 		defaulttoptexture = "ROCK23";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -41,12 +41,12 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "ROCK23";
 		defaultfloortexture = "FLOOR8_4";
-		viewpositiony = -3012.946f;
+		viewpositiony = 5185.611f;
 		defaultwalltexture = "ROCK23";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.1792115f;
+		viewscale = 3.211748f;
 		
 		fieldtypes
 		{
