@@ -17,7 +17,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 1794.822f;
+		viewpositionx = 4973.027f;
 		defaulttoptexture = "ROCK23";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -41,12 +41,12 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "ROCK23";
 		defaultfloortexture = "FLOOR8_4";
-		viewpositiony = -3013.363f;
+		viewpositiony = 932.8914f;
 		defaultwalltexture = "ROCK23";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 2.470537f;
+		viewscale = 0.04826598f;
 		
 		fieldtypes
 		{
@@ -82,12 +82,12 @@ maps
 				xscalefloor = 1;
 				yscalefloor = 1;
 				lightfloor = 0;
-				lightcolor = 0;
 				lightceiling = 0;
 				lightceilingabsolute = 3;
 				ceilingglowcolor = 0;
 				floorglowcolor = 0;
 				lightfloorabsolute = 3;
+				lightcolor = 0;
 				fadecolor = 0;
 			}
 		}
