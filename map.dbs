@@ -17,7 +17,7 @@ maps
 		{
 		}
 		overrideceiltexture = false;
-		viewpositionx = 213.5528f;
+		viewpositionx = -36.70477f;
 		defaulttoptexture = "ROCK23";
 		overrideceilheight = false;
 		useresourcesinreadonlymode = false;
@@ -33,7 +33,7 @@ maps
 			gridrotate = 0f;
 			backscalex = 100;
 			gridoriginx = 0f;
-			gridsize = 8f;
+			gridsize = 1f;
 			background = "";
 			backoffsety = 0;
 		}
@@ -41,12 +41,12 @@ maps
 		overridebottomtexture = false;
 		defaultbottomtexture = "ROCK23";
 		defaultfloortexture = "FLOOR8_4";
-		viewpositiony = 348.0692f;
+		viewpositiony = -109.6772f;
 		defaultwalltexture = "ROCK23";
 		customceilheight = 128;
 		overridemiddletexture = false;
 		custombrightness = 196;
-		viewscale = 0.5118364f;
+		viewscale = 3.211686f;
 		
 		fieldtypes
 		{
@@ -83,11 +83,11 @@ maps
 				yscalefloor = 1;
 				lightfloor = 0;
 				lightceiling = 0;
+				lightcolor = 0;
 				lightceilingabsolute = 3;
 				ceilingglowcolor = 0;
 				floorglowcolor = 0;
 				lightfloorabsolute = 3;
-				lightcolor = 0;
 				fadecolor = 0;
 			}
 		}
