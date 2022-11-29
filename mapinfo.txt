@@ -1,6 +1,0 @@
-map aow20 "Cross Fire" {
-	next = "aow07"
-	sky1 = "stars"
-	music = "d_aow06"
-	levelnum = 20
-}
